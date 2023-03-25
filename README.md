@@ -1,4 +1,5 @@
-![images](https://user-images.githubusercontent.com/69006353/227689045-9860097c-4d9a-4691-84fc-208cefbafea9.jpeg)
+![WhatsApp Image 2022-11-24 at 20 23 27](https://user-images.githubusercontent.com/69006353/227697371-818b166a-867b-4a3a-a549-976473f72475.jpg)
+
 <h1 align="center">Hi 👋, I'm GIFTY2379</h1>
 <h3 align="center">DevOps Engineer</h3>
 
