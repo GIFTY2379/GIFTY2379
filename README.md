@@ -1,5 +1,4 @@
-![images](https://user-images.githubusercontent.com/69006353/227689045-9860097c-4d9a-4691-84fc-208cefbafea9.jpeg)![images](https://user-images.githubusercontent.com/69006353/227689045-9860097c-4d9a-4691-84fc-208cefbafea9.jpeg)
-
+![images](https://user-images.githubusercontent.com/69006353/227689045-9860097c-4d9a-4691-84fc-208cefbafea9.jpeg)
 <h1 align="center">Hi 👋, I'm GIFTY2379</h1>
 <h3 align="center">DevOps Engineer</h3>
 
