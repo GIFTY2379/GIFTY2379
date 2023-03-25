@@ -1,4 +1,4 @@
-![WhatsApp Image 2022-11-24 at 20 23 27](https://user-images.githubusercontent.com/69006353/227697371-818b166a-867b-4a3a-a549-976473f72475.jpg)
+![WhatsApp Image 2022-11-24 at 20 23 27](https://user-images.githubusercontent.com/69006353/227697727-32d9e0ef-b421-4f21-9241-a31124dde546.jpg)
 
 <h1 align="center">Hi 👋, I'm GIFTY2379</h1>
 <h3 align="center">DevOps Engineer</h3>
