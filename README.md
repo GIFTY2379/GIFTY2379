@@ -13,8 +13,8 @@
 <a href="https://www.youtube.com/c/giftykosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="giftykosh" height="30" width="40" /></a>
 </p>
 
-   ![1_eAPJKrTprumlXhwvx4Zjew](https://user-images.githubusercontent.com/69006353/227694592-f1956af5-e7cb-4d9c-8c72-fd277c164040.png)
-       ![rrr](https://user-images.githubusercontent.com/69006353/227690132-933001be-5e0e-473a-abf8-9414c3c7b8df.gif)!                                       
+
+  ![rrr](https://user-images.githubusercontent.com/69006353/227690132-933001be-5e0e-473a-abf8-9414c3c7b8df.gif)                                       
 
 - 🔭 I’m currently working on [My-Personal-Project-Documentation](https://github.com/GIFTY2379/My-Personal-Project-Documentation/blob/master/Project%201.md)
 - 🌱 I’m currently learning **DevOps Engineer**
