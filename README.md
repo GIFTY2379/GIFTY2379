@@ -1,6 +1,6 @@
 ![WhatsApp Image 2022-11-24 at 20 23 27](https://user-images.githubusercontent.com/69006353/227697727-32d9e0ef-b421-4f21-9241-a31124dde546.jpg)
 
-<h1 align="center">Hi 👋, I'm GIFTY2379</h1>
+<h1 align="center">Hi 👋, I'm GIFTY</h1>
 <h3 align="center">DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gifty2379&label=Profile%20views&color=0e75b6&style=flat" alt="gifty2379" /> </p>
