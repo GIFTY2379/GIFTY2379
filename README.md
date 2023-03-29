@@ -1,4 +1,4 @@
-![WhatsApp Image 2022-11-24 at 20 23 27](https://user-images.githubusercontent.com/69006353/227697727-32d9e0ef-b421-4f21-9241-a31124dde546.jpg)
+![iStock-531240484](https://user-images.githubusercontent.com/69006353/228686415-37fdac68-02e8-4e0f-b64c-6addeb365122.jpg)
 
 <h1 align="center">Hi 👋, I'm GIFTY</h1>
 <h3 align="center">DevOps Engineer</h3>
@@ -14,7 +14,8 @@
 </p>
 
 
-  ![rrr](https://user-images.githubusercontent.com/69006353/227690132-933001be-5e0e-473a-abf8-9414c3c7b8df.gif)                                       
+  ![rrr](https://user-images.githubusercontent.com/69006353/227690132-933001be-5e0e-473a-abf8-9414c3c7b8df.gif) 
+
 
 - 🔭 I’m currently working on [My-Personal-Project-Documentation](https://github.com/GIFTY2379/My-Personal-Project-Documentation/blob/master/Project%201.md)
 - 🌱 I’m currently learning **DevOps Engineer**
